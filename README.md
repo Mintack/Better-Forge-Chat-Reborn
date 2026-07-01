@@ -15,8 +15,6 @@ This fork remains licensed under GPL-3.0, the same license as the original proje
 # BetterForgeChat
 A Forge based server-side chat mod to allow prefixes, suffixes and integration with LuckPerms and FTB-Essentials nicknames.
 
-This version is for MC1.20.1 and up. For MC1.18.2 The Original owner no longer has the time to maintain it and has given it over to us to maintain going forward.
-
 ## Features
 ### LuckPerms integration
 ![screenshots/LuckPermsIntegration.png](https://github.com/Birbs-world/Better-Forge-Chat-Reborn/raw/main/screenshots/LuckPermsIntegration.png)
